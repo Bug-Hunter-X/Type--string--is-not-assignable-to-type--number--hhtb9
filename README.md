@@ -1,0 +1,2 @@
+# Type 'string' is not assignable to type 'number' in TypeScript
+This example demonstrates a common type error in TypeScript where a string is passed to a function expecting a number.  The solution involves robust input validation or type guards to handle potential mismatches.
